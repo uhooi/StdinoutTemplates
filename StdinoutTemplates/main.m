@@ -1,5 +1,6 @@
 #import <Foundation/Foundation.h>
 
+/// メイン
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
         // 標準入力を取得する
